@@ -8,3 +8,11 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MVVM_homework"
 include ':app'
+include ':core'
+
+include ':repository'
+include ':model'
+include ':utils'
+include ':view'
+include ':historyScreen'
+include ':historyScreen'
