@@ -35,4 +35,3 @@ class HistoryViewModel(private val interactor: HistoryInteractor) :
         super.onCleared()
     }
 }
-
