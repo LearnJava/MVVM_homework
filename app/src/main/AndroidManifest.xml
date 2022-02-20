@@ -23,11 +23,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.descriptionscreen.DescriptionActivity"
-            android:screenOrientation="portrait"/>
+            android:name=".view.descriptionscreen.DescriptionActivity"/>
         <activity
-            android:name=".view.history.HistoryActivity"
-            android:screenOrientation="portrait"/>
+            android:name=".view.history.HistoryActivity"/>
     </application>
 
 </manifest>
